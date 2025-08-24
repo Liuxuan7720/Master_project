@@ -138,7 +138,9 @@ python gs_ortho_auto.py --ply ./output/baseline_fresh/point_cloud/iteration_1000
 ## Citation
 
 * Kerbl, B., Kopanas, G., Leimkühler, T., & Drettakis, G. (2023). *3D Gaussian Splatting for Real-Time Radiance Field Rendering.* ACM Transactions on Graphics (SIGGRAPH). [https://github.com/graphdeco-inria/gaussian-splatting](https://github.com/graphdeco-inria/gaussian-splatting)
-* **Supersplat**: [https://github.com/playcanvas/supersplat]/[https://superspl.at/editor/](https://github.com/supersplat/supersplat)(https://superspl.at/editor/)
+* **Supersplat**: 
+  [https://github.com/playcanvas/supersplat](https://github.com/playcanvas/supersplat)
+  [https://superspl.at/editor/]
 * **Tanks and Temples Dataset**: [https://www.tanksandtemples.org/](https://www.tanksandtemples.org/)
 * **ETH3D Dataset**: [https://www.eth3d.net/datasets](https://www.eth3d.net/datasets)
 
