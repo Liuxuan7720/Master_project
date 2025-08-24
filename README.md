@@ -1,4 +1,4 @@
-# Orthographic Map Generation via 3D Reconstruction and Intelligent Point Cloud Filtering
+# Orthographic Generation Method Based on 3D Reconstruction and Point Cloud Intelligent Filtering
 
 > A research‑grade pipeline for **Orthographic Map Generation** from casual photo/video inputs, combining **3D Gaussian Splatting (3DGS)**, **Supersplat visualization**, and **two‑stage intelligent point cloud filtering**.
 
